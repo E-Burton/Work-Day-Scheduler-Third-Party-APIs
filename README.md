@@ -44,6 +44,14 @@ The following animation demonstrates the application functionality:
 
 ## Challenges
 
+* Creating time blocks, description and save button within JavaScript file.
+    **Solution:** Hard coded `<div>`, `<textera>`, and `<button>` elements into HTML file.
+
 ## Link to Website
 
+[Work Day Planner](https://e-burton.github.io/Work-Day-Scheduler-Third-Party-APIs/)
+
 ## Additional Resources used for Finished Project
+
+* AskBCS Learning Assistant/Tutoring
+
